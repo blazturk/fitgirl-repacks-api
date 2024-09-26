@@ -12,7 +12,7 @@ This is a simple API for fetching torrent links and magnet links from FitGirl Re
 1. Clone the repository:
 
    ```bash
-   git clone <repository-url>
+   git clone [<repository-url>](https://github.com/blazturk/fitgirl-repacks-api)
    cd fitgirl-repacks-api
    ```
 
